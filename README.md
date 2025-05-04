@@ -4,10 +4,6 @@
   Привет! Я Никита (geeksaider)
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=435&lines=🚀+Frontend;💡+Vue.js;🎨+UI%2FUX+Designer" alt="Typing Animation">
-</h3>
-
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/-@geeksaider-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/geeksaider)
